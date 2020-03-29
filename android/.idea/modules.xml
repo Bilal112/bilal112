@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/@react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/clipboard/android/@react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GivetAdmin.iml" filepath="$PROJECT_DIR$/GivetAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
