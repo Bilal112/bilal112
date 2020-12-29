@@ -113,8 +113,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <a href="https://github-readme-stats.vercel.app/api?username=Bilal112&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bilal112&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.Bilal112.vercel.app/api/top-langs/?username=Bilal112&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.Bilal112.vercel.app/api/top-langs/?username=Bilal112&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal112&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal112&layout=compact&theme=radical" />
 </a>
 
 ---
