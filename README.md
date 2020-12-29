@@ -125,7 +125,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [linkedin]: https://www.linkedin.com/in/bilal-irfan/
 [gmail]: mailto:bilalirfan000@gmail.com
 [whatsapp]: https://wa.me/923069131956
-[twitter]: https://twitter.com/TheBilal
+[twitter]: https://twitter.com/BilalIrfan12
 [skype]: https://join.skype.com/invite/aCT6LOQw660B
 [facebook]: https://www.facebook.com/OfficalBilal/
 [messenger]: https://www.messenger.com/t/OfficalBilal/
