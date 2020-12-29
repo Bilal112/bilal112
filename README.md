@@ -12,7 +12,6 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Bilal" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="Bilal | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Bilal | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Bilal | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
