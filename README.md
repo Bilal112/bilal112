@@ -1,10 +1,6 @@
-
-
-
-### Hi there, I'm Bilal Irfan -  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Bilal Irfan - <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 ## I'm a Student, Undergraduate, Developer
-
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -19,7 +15,6 @@
 [<img align="left" alt="Bilal | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Bilal | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
 [<img align="left" alt="Bilal | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-
 
 <br />
 
@@ -98,17 +93,6 @@
 
 ---
 
-
-### Dev Community
-
-<!-- DEVTO:START -->
-- [How to Handle ES6 modules in Node.Js](https://dev.to/theBilal/how-to-handle-es6-modules-in-node-js-hdn)
-- [Embed Dev.to as a blog on your React Website](https://dev.to/theBilal/embed-dev-to-as-a-blog-on-your-react-website-3l8c)
-- [Beautify Your GitHub Profile README](https://dev.to/theBilal/beautify-your-github-profile-readme-10cf)
-<!-- DEVTO:END -->
-
----
-
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github-readme-stats.vercel.app/api?username=Bilal112&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
@@ -120,7 +104,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ---
 
 ---
-
 
 [linkedin]: https://www.linkedin.com/in/bilal-irfan/
 [gmail]: mailto:bilalirfan000@gmail.com
