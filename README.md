@@ -1,6 +1,6 @@
 <!-- Your title -->
 ### HEY FOLKS :wave: :wave:
-## Hi, I'm Bilal IRfan, a Software Developer 🚀 from Pakistan.
+## Hi, I'm Bilal Irfan, a Software Developer 🚀 from Pakistan.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -16,14 +16,14 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working as Software Engineer;
+- 👨🏽‍💻 I’m currently working as a Software Engineer;
 - 🌱 I'm in love with React and React-Native; 
-- 👯 I’m looking forward to work with different organizations 🤝;
+- 👯 I’m looking forward to working with different organizations 🤝;
 - 🤔 I like to help others;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Motivation: I am learning python;
@@ -69,7 +69,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 <p align="center">
   <img alt="HitCount" src="http://hits.dwyl.com/bilal112/bilal112.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Mbilal112.bilal112" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=bilal112.bilal112" />
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/bilal112/bilal112.svg" />
 </p>
