@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I like to help others;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Motivation: I am learning python;
-- 📫 How to reach me: bilalirfan000@gmail.com;
+- 📫 How to reach me: bilalirfan000@gmail.com / +923069131956 ;
 
 **Languages and Tools:** 
 
