@@ -20,12 +20,12 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 
-- 👨🏽‍💻 I’m currently working as a Software Engineer at Dudi;
-- 👯 I’m looking forward to working with different organizations 🤝;
-- 🤔 I like to help others;
-- 💬 Ask me about anything React - React Native - NextJs - Node Js, I am happy to help;
-- ⚡️ Motivation: I am learning Python;
-- 📫 How to reach me: bilalirfan000@gmail.com / +923069131956 ;
+- 👨🏽‍💻 I’m currently working as a Software Engineer at @Dudi
+- 👯 I’m looking forward to working with different organizations 🤝
+- 🤔 I like to help others
+- 💬 Ask me about anything React - React Native - NextJs - Node Js, I am happy to help
+- ⚡️ Motivation: I am learning Python
+- 📫 How to reach me: bilalirfan000@gmail.com / +923069131956 
 
 **Languages and Tools:** 
 
