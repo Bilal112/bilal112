@@ -1,5 +1,5 @@
 <!-- Your title -->
-## <h1 align="center">Hi 👋, I'm Muhammad Bilal Irfan from Pakistan/Karachi.</h1>🚀 
+## <h1 align="center">Hi 👋, I'm Muhammad Bilal Irfan from Pakistan/Karachi. 🚀</h1> 
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
