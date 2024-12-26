@@ -1,6 +1,5 @@
 <!-- Your title -->
-### HEY FOLKS :wave: :wave:
-## Hi, I'm Bilal Irfan, a Software Engineer 🚀 from Pakistan/Karachi.
+## <h1 align="center">Hi 👋, I'm Muhammad Arsalan Manzoor from Pakistan/Karachi.</h1>🚀 
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
