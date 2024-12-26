@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 
-- 👨🏽‍💻 I’m currently working as a Software Engineer at [@Dudi](https://github.com/DudiApp)
+- 👨🏽‍💻 I’m currently working as a Software Engineer at [Dudi](https://github.com/DudiApp)
 - 👯 I’m looking forward to working with different organizations 🤝
 - 🤔 I like to help others
 - 💬 Ask me about anything React - React Native - NextJs - Node Js, I am happy to help
